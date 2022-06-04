@@ -1,0 +1,114 @@
+.header{
+    color:crimson;
+    height: 60px;
+    background-color: black;
+}
+ 
+.header-logo{
+    font-size: 20px;
+    padding-left: 60px;
+    padding-top: 30px;
+    color:aliceblue;
+}
+
+.container h1{
+    font-size: 60px;
+}
+ 
+.container h2{
+    font-size: 40px;
+}
+
+div.right {
+    height: 80px;
+    text-align: right;
+}
+
+div.right img{
+    width: 955px;
+    text-align: right;
+    height: 693px;
+}
+.container{
+    background-color: aliceblue;
+}
+
+.tokutyo h1{
+    font-size: 40px;
+}
+
+.tokutyo a{
+    font-size: 20px;
+}
+
+.tokutyo{
+    background-color: aliceblue;
+}
+
+body {
+    background-color: black;
+}
+
+.kihonn{
+    color:azure;
+}
+
+.gakusai{
+    display: table;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.gakusai li{
+    width: 100%;
+    display: table-cell;
+}
+
+.gakusai img{
+    width: 365px;
+}
+.sns img{
+    width: 80px;
+    margin-left: 690px;
+}
+
+.sns h1{
+    color: aliceblue;
+    margin-top: 300px;
+    margin-left: 690px;
+}
+
+.sns2 img{
+    width: 80px;
+    margin-left: 772px;
+}
+
+.tabemono{
+    display: table;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.tabemono li{
+    width: 100%;
+    display: table-cell;
+}
+
+.tabemono img{
+    width: 365px;
+}
+
+.sonota{
+    display: table;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.sonota li{
+    width: 100px;
+    display: table-cell;
+}
+
+.sonota img{
+    width: 365px;
+}
