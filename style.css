@@ -67,20 +67,20 @@ body {
 .gakusai img{
     width: 365px;
 }
+.sns{
+    margin-left: 650px;
+}
 .sns img{
     width: 80px;
-    margin-left: 690px;
 }
 
 .sns h1{
     color: aliceblue;
     margin-top: 300px;
-    margin-left: 690px;
 }
 
-.sns2 img{
-    width: 80px;
-    margin-left: 772px;
+.sns li{
+    display: table-cell;
 }
 
 .tabemono{
